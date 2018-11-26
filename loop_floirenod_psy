@@ -1,0 +1,42 @@
+# Declaring and Initializing variable on phantom
+
+#strings
+sonic ="fast"
+tails = "fly"
+darkie = "kaklase nyong..."
+
+#Numerical values
+bilang_ng_sonic = 10
+bilangngtails = 100
+kaligayahan=0.5
+
+print(sonic)
+print(tails)
+print(darkie)
+
+print(bilang_ng_sonic)
+print(bilangngtails)
+print(kaligayahan)
+
+#Arithmetic
+addition = 1+1
+subtraction = 1-1
+division = 1/1
+multiplication = 1*1
+modulus = 5%3
+
+print(addition)
+print(subtraction)
+print(division)
+print(multiplication)
+print(modulus)
+
+if addition > division:
+    print("Hello")
+
+elif modulus < multiplication
+    print("kcklowoow")
+
+else:
+
+    print("Hi")
