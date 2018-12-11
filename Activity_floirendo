@@ -1,0 +1,20 @@
+val1 =10
+val2 =20
+val3 =30
+
+print(val1+val2+val3)
+
+for x in range (2,10,2):
+    print(x)
+
+Cellphone = "oppo"
+
+if Cellphone == "oppo":
+    print("I want To buy it!")
+else:
+    print("so old!")
+
+val4 =5<6
+val5 =8==7
+print(val4)
+print(val5)
