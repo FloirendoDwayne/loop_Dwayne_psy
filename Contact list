@@ -1,0 +1,10 @@
+contact={}
+
+while True:
+    contact_name=input("Enter Name: ")
+    contact[contact_name]=input("Enter phone number:")
+    print(contact)
+
+
+    search=input("Enter name to search:")
+    print(contact[search])
