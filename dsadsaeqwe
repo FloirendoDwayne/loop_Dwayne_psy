@@ -1,0 +1,39 @@
+dictGordon={}
+
+dictGordon["hello"]="world"
+print(dictGordon["hello"])
+
+listfranz=["Math","English","Values","PE"]
+print(listfranz[0])
+
+dict2={}
+dict2["Dog"]="Moshi"
+print(dict2["Dog"])
+dict2["Bestfriend"]="Lovely"
+print(dict2["Bestfriend"])
+dict2["Sister"]="Mikee"
+print(dict2["Sister"])
+
+
+dict3={ "Dog":"Moshi","Bestfriend":"Lovely","Sister":"Mikee"   }
+print(dict3["Bestfriend"])
+print(dict3["Dog"])
+print(dict3["Sister"])
+
+listfranz.append("Science")
+print(listfranz[4])
+
+
+contact={}
+ # contact["name"]=input("Enter Name")
+ # print(contact["name"])
+while True:
+    contact_name=input("Enter Name")
+    contact[contact_name]=input("Enter phone number")
+    print(contact)
+
+
+    search=input("Enter name to search")
+    print(contact[search])
+Chat Conversation End
+Type a message...
